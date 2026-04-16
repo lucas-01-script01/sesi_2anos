@@ -1,4 +1,20 @@
 <?php
-$dev+ "ola mundo";
-echo $dev;
+$dev= "ola mundo";
+$nome = "eu sou o lucas";
+
+echo $dev, " ". $nome;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ?>
